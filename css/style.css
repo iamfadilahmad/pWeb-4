@@ -1,0 +1,10 @@
+body{
+    max-width: 60rem;
+    margin: auto;
+    background: lightgrey;
+    color: white;
+}
+
+.container{
+    color: black;
+}
